@@ -17,19 +17,19 @@ This Train Delay Analysis project focuses on analyzing real-world railway data, 
 
 ## 📉 Key Insights
 
-1. The average delay time recorded is 38.63 minutes.
-2. The average train cancellation rate is 1.17%.
-3. 50.41% of trains run on time, meaning 49.59% of trains are not on schedule.
-4. Howrah Duronto has the highest cancellation rate at 7.5%, and it also holds the highest average delay time of 307 minutes.
-5. Trains such as Swarna Jayanti Rajdhani, Gatimaan Express, Rajdhani, and Howrah Rajdhani operate with more than 80% on-time performance.
+1. **The average delay time recorded is 38.63 minutes.**
+2. **The average train cancellation rate is 1.17%.**
+3. **50.41% of trains run on time, meaning 49.59% of trains are not on schedule.**
+4. **Howrah Duronto has the highest cancellation rate at 7.5%, and it also holds the highest average delay time of 307 minutes.**
+5. **Trains such as Swarna Jayanti Rajdhani, Gatimaan Express, Rajdhani, and Howrah Rajdhani operate with more than 80% on-time performance.**
 
 ----
 
 ## 🛠 Tools & Technologies Used
 
 * **Power BI Desktop**
-* **Python & Pandas
-* ** SQL Server Management Studio**
+* **Python & Pandas**
+* **SQL Server Management Studio**
 * **Excle**
 * **Power Query** for data transformation
 * **DAX** for calculated measures
