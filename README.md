@@ -52,7 +52,32 @@ This Train Delay Analysis project focuses on analyzing real-world railway data, 
 ## 📂 Project Structure
 
 
+```
 
+Train-Delay-Analysis-Project/
+│
+├── 1_Data_Dictionary/
+│   └── Data Dictionary.png
+│
+├── 2_Train_Delay_Data_Set/
+│   └── Train_Delay_Data_Set.xls        # Unclean dataset
+│
+├── 3_Clean_Data_Set_Code/
+│   └── Clean_Data_Set_Code.ipynb       # Python/Pandas cleaning code
+│
+├── 4_Clean_Data_Set/
+│   └── Cleaned_Data_Set_New.xls        # Cleaned dataset
+│
+├── 5_Train_Delay_Analysis_Dashboard/
+│   └── Train Delay Analysis.pbix       # Power BI dashboard
+│
+└── 6_README/
+    └── README.md                       # Project details and insights
+
+
+```
+
+---
 
 
 ## 👨‍💻 Author
